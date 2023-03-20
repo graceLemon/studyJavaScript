@@ -1,0 +1,13 @@
+<!-- 현재 환율을 기반으로 사용자에게 숫자를 입력받아 달러에서 원화로 환율을 변환 -->
+
+<script>
+  //숫자를 입력받습니다.
+  const rawInput = prompt('달러 단위의 금액을 입력해주세요')
+  const dollar = Number(rawInput)
+
+  //출력합니다.
+  let output=''
+  output += `달러: ${dollar}\n`
+  output += `원화: ${dollar * 1207}\n`
+  alert(output)
+</script>
