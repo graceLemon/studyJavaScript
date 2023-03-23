@@ -1,1 +1,1 @@
-# studyJavaScript
+## 📚 studyJavaScript : 자바스크립트 강의, 책을 보고 코드 연습을 하는 레포지토리 입니다:)
